@@ -2,22 +2,28 @@
 
 > Website: https://hanlab.mit.edu/courses/2023-fall-65940
 
-### Lab 0 Pruning
+### Lab 0 
 <details open>
 <summary>Details</summary>
 </details>
 
-### Lab 1 Quantization
+### Lab 1 Pruning
 <details open>
-<summary>Details</summary>
+<summary>fine-grained pruning</summary>
 </details>
 
-### Lab 2 
+
+### Lab 2 Quantization
 <details open>
-<summary>Details</summary>
+<summary>linear Quantization</summary>
+
+</details>
+<details open>
+<summary>k-means quantization</summary>
+
 </details>
 
-### Lab 3 
+### Lab 3
 <details open>
 <summary>Details</summary>
 </details>
