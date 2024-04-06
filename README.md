@@ -33,3 +33,8 @@
 <details open>
 <summary>Details</summary>
 </details>
+
+### Lab 5
+<details open>
+<summary>Details</summary>
+</details>
