@@ -1,5 +1,6 @@
 ## <div align="center"> MIT 6.5940 TinyML and Efficient Deep Learning Computing</div>
-
+> Instructor: [Song Han](https://hanlab.mit.edu/songhan)
+> 
 > Website: https://hanlab.mit.edu/courses/2023-fall-65940
 
 ### Lab 0 
