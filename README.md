@@ -4,7 +4,7 @@
 > Website: https://hanlab.mit.edu/courses/2023-fall-65940
 
 ### Lab 0 
-<details open>
+<details closed>
 <summary>Details</summary>
 </details>
 
