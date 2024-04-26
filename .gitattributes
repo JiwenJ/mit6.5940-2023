@@ -1,0 +1,4 @@
+slides/lec14.pdf filter=lfs diff=lfs merge=lfs -text
+slides/lec16.pdf filter=lfs diff=lfs merge=lfs -text
+slides/lec20.pdf filter=lfs diff=lfs merge=lfs -text
+slides/lec15.pdf filter=lfs diff=lfs merge=lfs -text
